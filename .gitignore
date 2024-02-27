@@ -1,7 +1,16 @@
 *.DS_Store
 *Java_Multithreading.iml
 *Producer_Consumer/ProducerConsumer/ProducerConsumer.iml
-*Producer_Consumer/ProducerConsumer/ProducerConsumer.iml/out/
+*Producer_Consumer/ProducerConsumer/out/
 *Producer_Consumer/ProducerConsumer/.gitignore
+*Producer_Consumer/ProducerConsumer/.idea
 *Producer_Consumer/ProducerConsumer.java
+*.idea
+
+*Producer_Consumer_BlockingQueue/Producer_Consumer_BlockingQueue.iml
+*Producer_Consumer_BlockingQueue/out
+*Producer_Consumer_BlockingQueue/.gitignore
+*Producer_Consumer_BlockingQueue/.idea
+
+
 
